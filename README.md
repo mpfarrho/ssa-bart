@@ -3,3 +3,4 @@ This repository is reserved for collecting data, codes and replication files for
 
 Contact information for the replication package: 
 * Michael Pfarrhofer (michael.pfarrhofer@wu.ac.at, mpfarrho@gmail.com)
+* Anna Stelzer (anna.k.stelzer@gmail.com)
